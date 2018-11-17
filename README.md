@@ -1,2 +1,3 @@
 # towerDefence
-Small tower defence game created using Pygame
+This was my first proper programming project.
+It was part of a school course.
